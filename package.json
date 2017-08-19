@@ -1,0 +1,21 @@
+{
+    "name": "@types/quill-delta",
+    "version": "3.5.0",
+    "description": "TypeScript definitions for quill-delta package",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Maxim Kornilov",
+            "url": "https://github.com/maximkornilov"
+        }
+    ],
+    "main": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/maximkornilov/types-quill-delta.git"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "peerDependencies": {},
+    "typeScriptVersion": "2.0"
+}
