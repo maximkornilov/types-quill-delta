@@ -1,7 +1,7 @@
 # types-quill-delta
 Package with typescript type definitions for quill delta project.
 
-This is temporary solution before definitelytyped project will not be updated to include separate type definition for quill-delta project.
+This is temporary solution before definitelytyped project will be updated to include separate type definition for quill-delta project.
 
 This package is intentially are not going to be submitted to npm. It is expected that eventually it will be a part of the definitelytyped eco system.
 
